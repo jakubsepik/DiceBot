@@ -1,0 +1,16 @@
+{
+  "name": "dicebot",
+  "version": "1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jakubsepik",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^8.2.0"
+  }
+}
